@@ -1,0 +1,5 @@
+MVC
+M - Modelagem
+V - Visualização
+C - Controle
+
